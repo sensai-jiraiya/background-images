@@ -14,11 +14,13 @@ a {
   background-color: #da823b;
   border-bottom: 3px solid #8e4a32;
   border-top: 3px solid #8e4a32;
+  background-image: url("../images/bg.svg");
+  background-size: 18px auto;
 }
 
 .search-input {
   border-color: #84452f;
-  background-image: url("../images/spy-glass.svg);
+  background-image: url("../images/spy-glass.svg");
   background-repeat: no-repeat;
   background-position: .2em center;
   background-size: 1.2em auto;
@@ -26,6 +28,8 @@ a {
 }
 
 .search-btn {
+  background-image: linear-gradient(to bottom, #7944);
+  border-color: #794431;
 
 }
 
